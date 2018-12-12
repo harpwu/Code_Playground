@@ -1,2 +1,2 @@
 # Code_Playground
-Repository for code testing
+This is a repository for code testing
